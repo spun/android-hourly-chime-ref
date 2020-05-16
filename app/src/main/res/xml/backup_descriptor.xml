@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!-- Exclude specific shared preferences (e.g. contain GCM registration Id) -->
+    <!--
+    We exclude the chime state preferences because in new devices the alarm
+    will never be set at installation an we should ignore the state of the
+    chime on other devices that made the backup
+    -->
+    <exclude
+        domain="sharedpref"
+        path="chime_state_preferences_file_key.xml" />
+</full-backup-content>

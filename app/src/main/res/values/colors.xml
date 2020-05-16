@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#015566</color>
+    <color name="colorPrimaryDark">#003b47</color>
+    <color name="colorSecondary">#fc5d5d</color>
+    <color name="colorAccent">#fc5d5d</color>
+
+    <!-- Widget -->
+    <color name="colorWidgetBackground">#a0015566</color>
+</resources>

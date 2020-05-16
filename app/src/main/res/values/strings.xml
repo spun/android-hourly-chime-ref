@@ -1,0 +1,39 @@
+<resources>
+    <!-- App -->
+    <string name="app_name">Hourly chime</string>
+
+    <!-- Preferences files -->
+    <string name="chime_state_preferences_file_key" translatable="false">chime_state_preferences_file_key</string>
+    <string name="chime_sound_preferences_file_key" translatable="false">chime_sound_preferences_file_key</string>
+
+    <!-- Quick settings tile -->
+    <string name="tile_name">Hourly chime</string>
+
+    <!-- Main fragment -->
+    <!-- Toolbar title -->
+    <string name="main_fragment_label">Hourly chime</string>
+    <!-- Menu -->
+    <string name="action_settings">Settings</string>
+    <!-- Content -->
+    <string name="home_card_logo_content_description">Logo image</string>
+    <string name="home_card_title">Hourly chime</string>
+    <string name="chime_state_enabled">Enabled</string>
+    <string name="chime_state_disabled">Disabled</string>
+
+    <!-- Settings fragment -->
+    <!-- Toolbar title -->
+    <string name="settings_fragment_label">Settings</string>
+    <!-- Spinner array values -->
+    <string name="sound_type_media">Media</string>
+    <string name="sound_type_ring">Ring</string>
+    <string name="sound_type_alarm">Alarm</string>
+    <!-- Content -->
+    <string name="settings_play_sound_as">Play sound as…</string>
+    <string name="settings_test_chime_button">Test chime</string>
+    <string name="settings_playing_chime_message">Playing chime</string>
+
+    <!-- Widget -->
+    <string name="appwidget_logo_content_description">Open app</string>
+    <string name="appwidget_toggle_content_description">Toggle chime</string>
+
+</resources>

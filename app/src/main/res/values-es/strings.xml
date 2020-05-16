@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Ajustes</string>
+    <string name="home_card_logo_content_description">Logo</string>
+    <string name="home_card_title">Señal horaria</string>
+    <string name="tile_name">Hourly chime</string>
+    <string name="chime_state_enabled">Activada</string>
+    <string name="chime_state_disabled">Desactivada</string>
+    <string name="sound_type_alarm">Alarma</string>
+    <string name="settings_play_sound_as">Reproducir como…</string>
+    <string name="settings_test_chime_button">Probar</string>
+    <string name="settings_playing_chime_message">Reproduciendo sonido</string>
+    <string name="appwidget_logo_content_description">Abrir aplicación</string>
+    <string name="main_fragment_label">Hourly chime</string>
+    <string name="settings_fragment_label">Ajustes</string>
+    <string name="sound_type_media">Multimedia</string>
+    <string name="sound_type_ring">Tono</string>
+    <string name="appwidget_toggle_content_description">Cambiar posición</string>
+    <string name="app_name">Hourly chime</string>
+</resources>
